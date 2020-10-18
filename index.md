@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Story
+---
+
+<p></p>
 The tumbler and seamstress known as Lark examined her store of sewing materials and sighed. She was perilously low on threads and dyes. If she was to do all of the projects and repairs she had planned for the long journey east, she had to replenish her stores.
 
 She spent the morning in the large markets. She saw plenty to impress her, but nothing seemed right for her work. Finally the kind man who gave her lunch told her where to find a broad choice in cloth thread and dyes.
